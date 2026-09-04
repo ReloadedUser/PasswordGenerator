@@ -10,5 +10,5 @@
 
 ### Disclaimer:
 - This program generates pseudo-random numbers using the time as seed, so it is not secure for generating a password. It was created for <ins>educational-purpose only</ins>.
-- The developer of this program don't assume **any responsibilities** for the usage of it. See the [license](url)
+- The developer of this program don't assume **any responsibilities** for the usage of it. See the [license](https://github.com/ReloadedUser/PasswordGenerator/blob/master/LICENSE)
 - 
